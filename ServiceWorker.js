@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Untitled-1.0";
 const contentToCache = [
     "Build/WebGPU.loader.js",
-    "Build/WebGPU.framework.js.gz",
-    "Build/WebGPU.data.gz",
-    "Build/WebGPU.wasm.gz",
+    "Build/WebGPU.framework.js",
+    "Build/WebGPU.data",
+    "Build/WebGPU.wasm",
     "TemplateData/style.css"
 
 ];
